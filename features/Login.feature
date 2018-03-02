@@ -1,5 +1,7 @@
-#Each feature file contains only one feature
+#Each feature file contains just one feature
 #Feature files use Gherkin language - business language
+#Use of tags that can be used within the runner to identify which 
+#features or scenarios we wish to run within the runner 
 @endtoend
 Feature: Test the login functionality on sdet university
 
